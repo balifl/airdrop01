@@ -1,3 +1,3 @@
 # airdrop01
 
-t3rn one-click cli
+teneo one-click cli
